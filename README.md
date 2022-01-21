@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @squarcia
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I'mm currently attending the [AIDE] degree program at the University of Pisa
+- 🌱 I'm currently attending the [AIDE] degree program at the University of Pisa
 - 💞️ I’m looking to collaborate on any kind of project that allows me to knows new fields
 - 📫 How to reach me: adelmobrunelli@gmail.com
 
