@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adelmo Brunelli
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I'm currently attending the [AIDE] degree program at the University of Pisa
-- 💞️ I’m looking to collaborate on any kind of project that allows me to knows new fields
+- 👀 I’m interested in Artificial Intelligence and Machine Learning, especially in Reinforcement Learning
+- 🌱 I'm attending the [AIDE] degree program at the University of Pisa and now I'm currently a research student in AI at Imperial College, London 
 - 📫 How to reach me: adelmobrunelli@gmail.com
 
 
